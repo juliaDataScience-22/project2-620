@@ -12,3 +12,7 @@ use a t-test or another statistical measure to support your findings.
 You may work in a small group.  Your project should be delivered in an Jupyter Notebook, and posted in 
 GitHub.  Your project is due end of day Sunday. You and your team should created a video presentation 
 about your project. You should be ready to present your project in our Meet-up.
+
+
+
+
