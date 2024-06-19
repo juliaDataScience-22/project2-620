@@ -1,3 +1,5 @@
+Original source: https://archive.ics.uci.edu/dataset/579/myocardial+infarction+complications
+
 Table of abbreviations
 
 FC is the functional class of angina pectoris in the last year according to Campeau, L., 1976. Grading of angina pectoris. Circulation, 54(3), pp.522-523.
